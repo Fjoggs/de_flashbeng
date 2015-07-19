@@ -1286,3 +1286,242 @@ Level flags = 4
 Total triangle count: 14478
 Writing e:\spill\cs-go-maps-git\de_flashbeng.bsp
 2 minutes, 3 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\CS-GO Maps Git\de_flashbeng.vmf
+Map revision 50
+Patching WVT material: maps/de_flashbeng/de_train/blendgraveldirt001a_wvt_patch
+Patching WVT material: maps/de_flashbeng/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 246 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\CS-GO Maps Git\de_flashbeng.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (448367 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 917 texinfos to 701
+Reduced 40 texdatas to 35 (1050 bytes to 858)
+Writing E:\CS-GO Maps Git\de_flashbeng.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\cs-go maps git\de_flashbeng.bsp
+reading e:\cs-go maps git\de_flashbeng.prt
+1760 portalclusters
+6149 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 146594 visible clusters (0.00%)
+Total clusters visible: 2607736
+Average clusters visible: 1481
+Building PAS...
+Average clusters audible: 1759
+visdatasize:778412  compressed from 788480
+writing e:\cs-go maps git\de_flashbeng.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading e:\cs-go maps git\de_flashbeng.bsp
+5254 faces
+951492 square feet [137014976.00 square inches]
+23 Displacements
+2988 Square Feet [430384.56 Square Inches]
+5254 patches before subdivision
+59882 patches after subdivision
+21 direct lights
+0...1...2...3...4... warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 2501
+no samples 2499
+5 warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 2691
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 2693
+...6...7... warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 4105
+8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4271143, max 1371
+transfer lists:  32.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(418846, 322982, 291815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(133185, 100050, 89250)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46599, 34257, 30376)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17291, 12555, 11144)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6736, 4867, 4345)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2746, 1986, 1787)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1160, 846, 771)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(512, 378, 348)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(233, 175, 163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(111, 85, 79)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(55, 42, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(28, 22, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(15, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(8, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(5, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4.. warning - face vectors parallel to face normal. bad lighting will be produced
+. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+5 warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+...6...7... warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes               1293/8192        15516/98304    (15.8%) 
+brushsides           11119/65536       88952/524288   (17.0%) 
+planes                6390/65536      127800/1310720  ( 9.8%) 
+vertexes              8159/65536       97908/786432   (12.4%) 
+nodes                 3124/65536       99968/2097152  ( 4.8%) 
+texinfos               701/12288       50472/884736   ( 5.7%) 
+texdata                 35/2048         1120/65536    ( 1.7%) 
+dispinfos               23/0            4048/0        ( 0.0%) 
+disp_verts             575/0           11500/0        ( 0.0%) 
+disp_tris              736/0            1472/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       12364/0           12364/0        ( 0.0%) 
+faces                 5254/65536      294224/3670016  ( 8.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3543/65536      198408/3670016  ( 5.4%) 
+facebrushes            595/0            1190/0        ( 0.0%) 
+facebrushlists        5254/0           21016/0        ( 0.0%) 
+leaves                3134/65536      100288/2097152  ( 4.8%) 
+leaffaces             6289/65536       12578/131072   ( 9.6%) 
+leafbrushes           2597/65536        5194/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39188/512000     156752/2048000  ( 7.7%) 
+edges                22276/256000      89104/1024000  ( 8.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11376/65536       22752/131072   (17.4%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 3/1024         1056/360448   ( 0.3%) 
+LDR lightdata         [variable]     1541162/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      778412/16777216 ( 4.6%) 
+entdata               [variable]       12784/393216   ( 3.3%) 
+LDR ambient table     3134/65536       12536/262144   ( 4.8%) 
+HDR ambient table     3134/65536       12536/262144   ( 4.8%) 
+LDR leaf ambient     17789/65536      498092/1835008  (27.1%) 
+HDR leaf ambient      3134/65536       87752/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4378     ( 0.0%) 
+pakfile               [variable]      150311/0        ( 0.0%) 
+physics               [variable]      448367/4194304  (10.7%) 
+physics terrain       [variable]        3937/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 14550
+Writing e:\cs-go maps git\de_flashbeng.bsp
+47 seconds elapsed
